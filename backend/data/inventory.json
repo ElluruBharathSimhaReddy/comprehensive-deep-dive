@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "productName": "Ergonomic Chair",
+    "category": "Furniture",
+    "price": 199.99,
+    "supplier": "Global Office"
+  },
+  {
+    "id": 2,
+    "productName": "Standing Desk",
+    "category": "Furniture",
+    "price": 399.99,
+    "supplier": "Workspace Hub"
+  },
+  {
+    "id": 3,
+    "productName": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 29.99,
+    "supplier": "Tech World"
+  },
+  {
+    "id": 4,
+    "productName": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 89.99,
+    "supplier": "Tech World"
+  },
+  {
+    "id": 5,
+    "productName": "Notebook Pack",
+    "category": "Stationery",
+    "price": 12.5,
+    "supplier": "Paper Plus"
+  },
+  {
+    "id": 6,
+    "productName": "Ball Pen Set",
+    "category": "Stationery",
+    "price": 8.99,
+    "supplier": "Paper Plus"
+  },
+  {
+    "id": 7,
+    "productName": "Monitor 24 Inch",
+    "category": "Electronics",
+    "price": 179.99,
+    "supplier": "Display Mart"
+  },
+  {
+    "id": 8,
+    "productName": "Office Lamp",
+    "category": "Furniture",
+    "price": 49.99,
+    "supplier": "Global Office"
+  },
+  {
+    "id": 9,
+    "productName": "Whiteboard",
+    "category": "Office",
+    "price": 74.99,
+    "supplier": "Workspace Hub"
+  },
+  {
+    "id": 10,
+    "productName": "Printer Paper Box",
+    "category": "Office",
+    "price": 34.99,
+    "supplier": "Paper Plus"
+  },
+  {
+    "id": 11,
+    "productName": "USB-C Dock",
+    "category": "Electronics",
+    "price": 119.99,
+    "supplier": "Tech World"
+  },
+  {
+    "id": 12,
+    "productName": "Storage Cabinet",
+    "category": "Furniture",
+    "price": 249.99,
+    "supplier": "Global Office"
+  }
+]

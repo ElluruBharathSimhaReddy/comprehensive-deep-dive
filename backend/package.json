@@ -1,0 +1,16 @@
+{
+  "name": "zeerostock-backend",
+  "version": "1.0.0",
+  "description": "Complete backend for Zeerostock assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "init-db": "node initDb.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.7"
+  }
+}
